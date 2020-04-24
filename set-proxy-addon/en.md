@@ -3,6 +3,7 @@
  SRT ProxyAddon is easy way for accept signal in Studio from Location.
 It does not require dedicated IP and port-forwarding manipulation.
 Just click and use.
+![image](SRTProxyAddon-1.png)
 
 1. Run SRT MiniServer and press START
 2. Click ProxyAddon icon. It opens “SRT Proxy Addon” window.
@@ -23,6 +24,7 @@ FAQ
 *Cons – you don’t need dedicated IP and port-forwarding setup. It’s perfect for using for mobile studios.
 Pros – this workflow has 3 participants: Publisher–> Proxy-server –> Studio
 instead 2 participants for direct connection (Publisher–>Studio)*
+![image](Proxy.png)
 
 **Where are located proxy servers?**
 
