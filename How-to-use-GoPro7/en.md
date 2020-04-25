@@ -28,11 +28,11 @@ RTMP URL is full url from “Step 1” include stream name.
 
 For my case it’s : rtmp://192.168.1.14:1935/live/myStreamName
 
-![](f4.jpg)
+![](f4.jpeg)
 
 **Step 4:** press Set Up Live Stream and you got new screen. Press “Go Live”.
 
-![](f5.png)
+![](f5.jpeg)
 
 Now I can open any NDI consumer (vMix, OBS etc) and use NDI feed.
 
